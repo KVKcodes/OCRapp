@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OCRapp/static/css/main.f855e6bc.css",
+    "main.js": "/OCRapp/static/js/main.cea0ac06.js",
+    "static/js/453.d35aed82.chunk.js": "/OCRapp/static/js/453.d35aed82.chunk.js",
+    "index.html": "/OCRapp/index.html",
+    "main.f855e6bc.css.map": "/OCRapp/static/css/main.f855e6bc.css.map",
+    "main.cea0ac06.js.map": "/OCRapp/static/js/main.cea0ac06.js.map",
+    "453.d35aed82.chunk.js.map": "/OCRapp/static/js/453.d35aed82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cea0ac06.js"
+  ]
+}
